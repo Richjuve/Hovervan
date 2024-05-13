@@ -1,0 +1,73 @@
+body {
+  margin: 0;
+	background-color: #F5F5F7
+  border-radius: 50px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #1D1D1F;
+  position: fixed;
+  width: 15%;
+  height: 100%;
+  overflow: auto;
+  /*position: sticky;
+  position: -webkit-sticky; /*Safari 需要*/
+}
+
+div {
+  margin-left:15.5%;
+  margin-right:0.5%;
+  padding:1px 16px;
+  height:700px;
+}
+
+li {
+  float: center;
+}
+
+li a {
+  display: block;
+  color: #F5F5F7;
+  text-align: center;
+  padding: 1em;
+  text-decoration: none;
+}
+
+/* 当鼠标悬停时把链接颜色更改为 #111（黑色） */
+li a:hover {
+  background-color: hsl(240, 100%, 10%);
+}
+
+.active {
+  background-color: hsl(240, 100%, 15%);
+}
+
+h1 {
+	font-family: cursive;
+	text-align: center;
+	color: navy;
+}
+
+p{
+	margin-left: 0%;
+	text-indent:2em;
+	font-family: Times;
+  font-size: 1.1em;
+	color: #1D1D1F;
+	text-decoration: none;
+}
+
+a{
+	color: #1D1D1F;
+	text-decoration: none;
+}
+
+address{
+	text-align: right;
+  margin-right: 5%;
+  margin-top: 5%;
+}
