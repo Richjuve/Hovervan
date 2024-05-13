@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "f4f32d0f997532e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "8130b8795117b1f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8fb2eb8e9235eabd",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "嘉年华相关文件记录/附件/安行如意保意外险安享款20240414-20250413.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ffdf5a755cb6dcaa",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c6663b1e5b190cb6",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "9392b64cf5f8d714",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "1a93a220d9ab6e3a",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "1d8edb97f8722c00",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "3f7a980674e35b96",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "dd43435440ac8ef7",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "嘉年华相关文件记录/附件/安行如意保意外险安享款20240414-20250413.pdf",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "d31f70cf11311464",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "嘉年华相关文件记录/附件/安行如意保意外险安享款20240414-20250413.pdf",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "d711fa32381f3210",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "嘉年华相关文件记录/附件/安行如意保意外险安享款20240414-20250413.pdf"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8fb2eb8e9235eabd",
+  "lastOpenFiles": [
+    "嘉年华相关文件记录/保险信息.md",
+    "目录 Catalogue.md",
+    "嘉年华相关文件记录/附件/机动车交通事故责任强制保险单（交强险）20230809-20240808.pdf",
+    "嘉年华相关文件记录/保养 & 整备记录.md",
+    "嘉年华相关文件记录/附件/车辆检测报告_福特嘉年华 2012款 两厢 1.5L 手动动感限量版.jpg",
+    "嘉年华相关文件记录/附件/看车照片.jpg",
+    "嘉年华相关文件记录/附件/机动车综合商业保险20240414-20250413.pdf",
+    "嘉年华相关文件记录/附件/安行如意保意外险安享款20240414-20250413.pdf",
+    "嘉年华相关文件记录/附件/嘉实多 极护 新升级致悦版.jpg",
+    "嘉年华相关文件记录/附件/福特嘉年华保养手册｜Ford Fiesta Maintenance Manual.pdf",
+    "嘉年华相关文件记录/附件/福特嘉年华说明书｜Ford Fiesta Owner's Manual.pdf",
+    "嘉年华相关文件记录/福特嘉年华前车主 李俊夫 身份证.heic",
+    "武汉大学全日制学生车辆自动识别信息登记表.doc",
+    "嘉年华相关文件记录/车辆信息.md",
+    "嘉年华相关文件记录/心情件.md",
+    "嘉年华相关文件记录/保养记录.md",
+    "嘉年华相关文件记录/福特嘉年华说明书｜Ford Fiesta Owner's Manual.pdf",
+    "嘉年华相关文件记录/福特嘉年华保养手册｜Ford Fiesta Maintenance Manual.pdf",
+    "嘉年华相关文件记录/附件/福特嘉年华交强险电子保单20230808-20240808.pdf",
+    "嘉年华相关文件记录/保养待换.md",
+    "嘉年华相关文件记录/整备清单.md",
+    "嘉年华相关文件记录/年检记录.md",
+    "嘉年华相关文件记录/校内车辆登记.md",
+    "嘉年华相关文件记录/保险记录（24.8.9截止）.md"
+  ]
+}

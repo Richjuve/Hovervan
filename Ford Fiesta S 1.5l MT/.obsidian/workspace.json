@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "d85bbfba2060d4b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "05f7df32f66ee226",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20e265608b781367",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "嘉年华相关文件记录/年检记录.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3501bdfcc5f09824",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b69ac44f697395f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af05323c593979f1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "69b61be51ded17e1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "258042db7f27f95d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0e78b0fe36b6d6ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "36473149c72874a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19ed9f1d5cd0970b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "嘉年华相关文件记录/年检记录.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3c6943a41083a78e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "嘉年华相关文件记录/年检记录.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b426a69ddffb5a5b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d9a78dc7ac4e5c6c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "嘉年华相关文件记录/年检记录.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "20e265608b781367",
+  "lastOpenFiles": [
+    "嘉年华相关文件记录/附件/IMG_0001.heic",
+    "嘉年华相关文件记录/附件/IMG_0003.heic",
+    "嘉年华相关文件记录/附件/IMG_0004.heic",
+    "嘉年华相关文件记录/附件/IMG_0005.heic",
+    "嘉年华相关文件记录/附件/IMG_0006.heic",
+    "目录 Catalogue.md",
+    "嘉年华相关文件记录/保险信息.md",
+    "嘉年华相关文件记录/保养 & 整备记录.md",
+    "嘉年华相关文件记录/车辆信息.md",
+    "嘉年华相关文件记录/年检记录.md",
+    "嘉年华相关文件记录/心情件.md",
+    "嘉年华相关文件记录/校内车辆登记（已解决）.md",
+    "嘉年华相关文件记录/配件.md",
+    "嘉年华相关文件记录/待保养 or 维修.md",
+    "嘉年华相关文件记录/附件/机动车交通事故责任强制保险单（交强险）20230809-20240808.pdf",
+    "嘉年华相关文件记录/附件/福特嘉年华交强险电子保单20230809-20240808.pdf",
+    "嘉年华相关文件记录/附件/安行如意保意外险安享款20240414-20250413.pdf",
+    "嘉年华相关文件记录/附件/机动车综合商业保险20240414-20250413 1.pdf",
+    "嘉年华相关文件记录/附件/机动车综合商业保险20240414-20250413.pdf",
+    "嘉年华相关文件记录/附件/福特嘉年华说明书｜Ford Fiesta Owner's Manual.pdf",
+    "嘉年华相关文件记录/附件/车辆检测报告_福特嘉年华 2012款 两厢 1.5L 手动动感限量版.jpg",
+    "嘉年华相关文件记录/附件/看车照片.jpg",
+    "嘉年华相关文件记录/附件/嘉实多 极护 新升级致悦版.jpg",
+    "校内车辆登记.md",
+    "Welcome.md",
+    "保险记录.md"
+  ]
+}
